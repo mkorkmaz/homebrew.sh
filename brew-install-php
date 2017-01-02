@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Installs php versions, theirs extensions and some useful tools
+# Installs php versions, their extensions and some useful php tools
 brew update
 brew install homebrew/php/php56 homebrew/php/php56-apcu homebrew/php/php56-intl  homebrew/php/php56-mcrypt homebrew/php/php56-memcached homebrew/php/php56-mongodb homebrew/php/php56-opcache homebrew/php/php56-redis homebrew/php/php56-libsodium homebrew/php/php56-twig homebrew/php/php56-uuid homebrew/php/php56-xdebug homebrew/php/php56-yaml
 brew install homebrew/php/brew-php-switcher homebrew/php/composer homebrew/php/brew-php-switcher homebrew/php/php-code-sniffer homebrew/php/phpcpd homebrew/php/phpdocumentor homebrew/php/phploc homebrew/php/phpmd homebrew/php/phpmetrics homebrew/php/phpunit homebrew/php/xdebug-osx
