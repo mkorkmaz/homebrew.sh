@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Updates all brew including different versions of php and php extensions
+brew update
+brew-php-switcher 56 -s
+brew upgrade
+brew-php-switcher 70 -s
+brew upgrade
+brew-php-switcher 71 -s
+brew upgrade
+brew cleanup
